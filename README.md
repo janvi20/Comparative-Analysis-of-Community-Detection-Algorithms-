@@ -29,6 +29,9 @@ This project compares the effectiveness of multiple community detection algorith
 - Infomap
 - Multi-Level Modularity Optimization (Louvain)
 - Walktrap
+  
+## Methodology
+<img width="1470" height="731" alt="image" src="https://github.com/user-attachments/assets/33e47d7d-89ad-426c-8cb4-939af7c0e713" />
 
 ## Datasets
 
